@@ -28,8 +28,8 @@ A simple game backlog tracker built with React+Javascript, Bootstrap, and CSS. K
 
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
-   cd backlogtrap
+   git clone git@github.com:cavemenn/Game-Collection-Dashboard.git
+   cd Game-Collection-Dashboard
    ```
 2. Install the dependencies
    ```bash
